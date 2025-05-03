@@ -293,4 +293,5 @@ REGISTER NUMBER: 212224230301
 ![Screenshot (45)](https://github.com/user-attachments/assets/606db8c9-dffc-422f-b02a-c87d460cf3b0)
 
 **Result :**
+
 Successfully completed a C program to implement 2D transformation of image.
